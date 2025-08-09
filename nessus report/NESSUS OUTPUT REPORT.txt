@@ -1,0 +1,60 @@
+NESSUS OUT ANALYSIS:
+
+    Once a scan finishes, you can view detailed results. The Live Results Scan page shows all the vulnerabilities found, with filters to help you sort by severity or type.
+
+EACH ROW SHOWS:
+
+    1) The severity of the issue (Critical, High, Medium, Low, Info)
+
+    2) The CVSS score, which tells you how dangerous the vulnerability is
+
+    3) A description of the issue (like “SMB Signing not required” or “SNMP Default Community Name”)
+
+    4) The category or family it belongs to (Windows, SNMP, etc.)
+
+    5) How many hosts are affected
+
+To the right, a pie chart that visually breaks down the number of vulnerabilities by risk level.
+
+From this analysis we can easily found the vulnerabilities and easily retrive the problem.
+
+
+1. VULNERABILITY SCANNING:
+
+
+     The core of Nessus is its ability to automatically scan systems, servers, network devices, and applications for known vulnerabilities. This includes misconfigurations, outdated software, missing security patches, and weak points in the infrastructure.
+
+Why this matters:
+Doing all this manually would take forever and still leave room for error. Nessus speeds up the process and gives you full visibility across your environment.
+
+
+2. RISK ASSESSMENT:
+
+    Once a scan is complete, Nessus doesn't just throw a list of problems at you. It organizes them by severity — Critical, High, Medium, Low, and Informational — helping you focus on the most urgent threats first.
+
+Why this matters:
+Not all vulnerabilities pose the same level of risk. Something that affects a public-facing server is far more dangerous than the same issue on an internal test machine. Nessus gives you the context you need to decide what to fix now and what can wait.
+
+
+3. CVSS SCORING:
+
+    Nessus uses CVSS version 3.0 to assign each vulnerability a score from 0 to 10, based on how easy it is to exploit, the potential damage, and whether fixes are available.
+
+Why this matters:
+CVSS is a globally accepted standard. It helps you communicate risks clearly — whether you're talking to your tech team or presenting to management. For instance, a CVSS score of 9.8 tells everyone that this is a top priority and needs to be addressed immediately.
+
+
+4. REMEDIATION:
+
+    Nessus doesn’t leave you guessing how to fix the issues it finds. Each vulnerability comes with detailed information, including a description, potential impact, links to patches, and specific steps to resolve it.
+
+Why this matters:
+Identifying a problem is only half the job — the real value comes from being able to act on it quickly. Nessus makes remediation straight forward by giving your team everything they need in one place. This shortens patch cycles, reduces downtime, and tightens your security posture.
+
+
+5. SECURITY TOOLS:
+
+    One of the best parts about Nessus is its of prebuilt scan templates. These cover everything from general network scans to more specialized tests — like detecting malware, checking compliance with industry standards and scanning for high-profile vulnerabilities
+
+Why this matters:
+Every environment is different. Whether you’re auditing cloud infrastructure, scanning mobile devices, or preparing for a security assessment, Nessus lets you customize your scans so they fit your specific needs. This flexibility makes it an incredibly useful tool for IT, DevOps, and security teams alike.
