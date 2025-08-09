@@ -1,6 +1,8 @@
 ANALYSIS OF NESSUS CONCEPT:
 
-    Nessus is a tool used to find security problems in computer systems. It helps check if there are any vulnerabilities, missing patches, or weak settings that hackers could take advantage of. Nessus is often used by IT teams, ethical hackers, and security professionals to scan networks and systems.
+    Nessus is a tool used to find security problems in computer systems. It helps check if there are any vulnerabilities, 
+missing patches, or weak settings that hackers could take advantage of. 
+Nessus is often used by IT teams, ethical hackers, and security professionals to scan networks and systems.
 
     The main idea of Nessus is to scan devices, servers, or applications to see if they have any known issues. It checks for things like outdated software, weak passwords, open ports, or misconfigurations. It can also scan for malware and check compliance with certain rules or standards.
 
