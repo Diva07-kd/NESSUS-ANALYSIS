@@ -1,14 +1,19 @@
 ANALYSIS OF NESSUS CONCEPT:
 
-    Nessus is a tool used to find security problems in computer systems. It helps check if there are any vulnerabilities, 
+    Nessus is a tool used to find security problems in computer systems. It helps check if there are 
+any vulnerabilities, 
 missing patches, or weak settings that hackers could take advantage of. 
 Nessus is often used by IT teams, ethical hackers, and security professionals to scan networks and systems.
 
-    The main idea of Nessus is to scan devices, servers, or applications to see if they have any known issues. It checks for things like outdated software, weak passwords, open ports, or misconfigurations. It can also scan for malware and check compliance with certain rules or standards.
+    The main idea of Nessus is to scan devices, servers, or applications to see if they have any known 
+issues. It checks for things like outdated software, weak passwords, open ports, or misconfigurations. 
+It can also scan for malware and check compliance with certain rules or standards.
 
 NESSUS INTERFACE EXPLANATION:
 
-The Nessus interface is easy to use and has a lot of features. In the first image, you can see the main part of the interface where scan templates are shown. These templates let you choose what kind of scan you want to run. Some common ones include:
+The Nessus interface is easy to use and has a lot of features. In the first image, you can see the main 
+part of the interface where scan templates are shown. These templates let you choose what kind of scan 
+you want to run. Some common ones include:
 
     1) Basic Network Scan – checks for general problems on any device.
 
@@ -22,4 +27,5 @@ The Nessus interface is easy to use and has a lot of features. In the first imag
 
 There are also scans for specific threats like WannaCry ransomware, PrintNightmare, and Spectre/Meltdown.
 
-On the left side, there's a menu where you can see your past scans, customize reports, and manage settings. It’s all organized so you can easily find what you need.
+On the left side, there's a menu where you can see your past scans, customize reports, and manage settings. 
+It’s all organized so you can easily find what you need.
