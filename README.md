@@ -54,10 +54,10 @@ Each finding includes:
 
 Nessus is widely used alongside other tools like:
 
-- SIEMs (e.g., Splunk, ELK)
+- SIEMs 
 - Patch management platforms
 - Asset discovery systems
-- Cloud security tools (e.g., AWS Inspector, Azure Defender)
+- Cloud security tools
 
 ---
 
@@ -68,6 +68,8 @@ Nessus is widely used alongside other tools like:
 | `NESSUS INTERFACE.jpeg` | Screenshot of the Nessus scan template dashboard |
 | `NESSUS OUTPUT.jpeg` | Screenshot of vulnerability scan results |
 | `README.md` | Documentation and overview |
+| `NESSUS ANALYSIS CONCEPT.TXT` | overview of nessus concept |
+| `NESSUS OUTPUT REPORT.txt` | output concept explanation |
 
 ---
 
